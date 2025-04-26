@@ -1,6 +1,6 @@
-#estudiante jorge avila 
+# estudiante jorge avila 
 
-# Paso a Paso: Desplegar una Aplicación desde GitHub
+## Paso a Paso: Desplegar una Aplicación desde GitHub
 
 Este documento describe cómo desplegar una aplicación desde un repositorio de GitHub utilizando Azure.
 
