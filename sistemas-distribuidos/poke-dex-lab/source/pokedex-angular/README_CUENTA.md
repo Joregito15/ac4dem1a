@@ -43,7 +43,7 @@ Después de aceptar los términos, podrás iniciar sesión con tu nueva cuenta d
 
 ---
 
-## ✅ ¡Listo! Tienes tu Cuenta en la Nube
+## ¡Listo! Tienes tu Cuenta en la Nube
 
 Ahora tendrás acceso a una **cineteca** (entorno de almacenamiento y servicios) en la nube de Azure, donde podrás:
 
